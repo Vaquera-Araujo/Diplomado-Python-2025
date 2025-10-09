@@ -12,6 +12,8 @@ Organización del Curso:
 
 [Sesión 05](https://github.com/Vaquera-Araujo/Diplomado-Python-2025/blob/main/sesion_05.ipynb)
 
+[Sesión 06](https://github.com/Vaquera-Araujo/Diplomado-Python-2025/blob/main/sesion_06.ipynb)
+
 
 
 
